@@ -4,5 +4,5 @@ L'application Gestion Contact est application mobile qui  permet de faire la ges
 
 ## Screenshots
 
-<img src="https://github.com/chabbiyosr/Gestion-Contact-Android/blob/master/Auth.jpg" width="200" height="200">
+<img src="https://github.com/chabbiyosr/Gestion-Contact-Android/blob/master/Auth.jpg" width="200" height="400">
 
