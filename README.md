@@ -1,0 +1,7 @@
+# Gestion contact  📞📨
+
+L'application Gestion Contact est application mobile qui  permet de faire la gestion des contacts les CRUD (Ajouter, Supprimer, Modifier et Rechercher), faire les appels téléphoniques et envoyer les messages SMS.
+
+## Screenshots
+
+<img src="https://github.com/chabbiyosr/Gestion-Contact-Android/blob/master/Auth.jpg">
